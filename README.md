@@ -1,4 +1,4 @@
-# polyMarket
+# poly（simplify to polyMarket）
 
 This is a simplified version of the prediction market.
 
