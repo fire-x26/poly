@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ProxyTarget",
+  "sourceName": "contracts/Prediction/proxyTarget.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122054d3d74d638757eafe8498e2c34cfede6a6cf0a301fffafa27f145e400049caa64736f6c63430008180033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122054d3d74d638757eafe8498e2c34cfede6a6cf0a301fffafa27f145e400049caa64736f6c63430008180033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

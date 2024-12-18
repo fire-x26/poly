@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "ProxyTarget",
+  "sourceName": "contracts/CarbonAssets/utils/proxyTarget.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a82b299c877876beef968ba74c0962e1107c1f32c4cba78c3f267d861f653d0d64736f6c63430008180033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a82b299c877876beef968ba74c0962e1107c1f32c4cba78c3f267d861f653d0d64736f6c63430008180033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
